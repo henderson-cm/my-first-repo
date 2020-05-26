@@ -1,0 +1,17 @@
+commit 63820f9302ad6cccb58b1fab4cc30d10d799316f
+Author: henderson-cm <henderson.cm@gmail.com>
+Date:   Tue May 26 15:49:14 2020 -0400
+
+    added gitignore
+
+commit a7e46aaf233731e839d16b6dff8e7c9771e69b1b
+Author: henderson-cm <henderson.cm@gmail.com>
+Date:   Tue May 26 08:07:53 2020 -0400
+
+    added two files
+
+commit a2895986e319b269a995fdef030dd6667ebc5d18
+Author: henderson-cm <henderson.cm@gmail.com>
+Date:   Tue May 26 08:06:01 2020 -0400
+
+    added readme.txt
